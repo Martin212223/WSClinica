@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj": {}
+    "C:\\Users\\dayan\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj": {
+    "C:\\Users\\dayan\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj",
+        "projectUniqueName": "C:\\Users\\dayan\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj",
         "projectName": "WSClinica",
-        "projectPath": "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj",
-        "packagesPath": "C:\\Users\\anabe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\obj\\",
+        "projectPath": "C:\\Users\\dayan\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj",
+        "packagesPath": "C:\\Users\\dayan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dayan\\Source\\Repos\\WSClinica\\WSClinica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\anabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
