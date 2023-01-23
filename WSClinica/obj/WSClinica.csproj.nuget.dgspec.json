@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alternativa\\Desktop\\WSClinica\\Clinica\\WSClinica\\WSClinica.csproj": {}
+    "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alternativa\\Desktop\\WSClinica\\Clinica\\WSClinica\\WSClinica.csproj": {
+    "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alternativa\\Desktop\\WSClinica\\Clinica\\WSClinica\\WSClinica.csproj",
+        "projectUniqueName": "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj",
         "projectName": "WSClinica",
-        "projectPath": "C:\\Users\\Alternativa\\Desktop\\WSClinica\\Clinica\\WSClinica\\WSClinica.csproj",
-        "packagesPath": "C:\\Users\\Alternativa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alternativa\\Desktop\\WSClinica\\Clinica\\WSClinica\\obj\\",
+        "projectPath": "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\WSClinica.csproj",
+        "packagesPath": "C:\\Users\\anabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anabe\\Source\\Repos\\WSClinica\\WSClinica\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alternativa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\anabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
